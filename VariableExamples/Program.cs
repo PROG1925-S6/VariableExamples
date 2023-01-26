@@ -71,7 +71,7 @@ namespace VariableExamples
             age++;
             Console.WriteLine(age);
 
-            //9. Decremene your age by 1
+            //9. Decrement your age by 1
             age--;
             Console.WriteLine(age);
             Console.ReadKey();
