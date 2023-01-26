@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+ * Variable Examples
+ * 
+ * Purpose: to demonstrate the use of variables and operators
+ * Name:    Tony Theodoropoulos
+ * Revision History: created Jan 25 by Tony Theo...
+ * 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
